@@ -29,7 +29,7 @@
     "helmet": "^3.21.1",
     "icheck": "^1.0.2",
     "icheck-2": "^2.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsonwebtoken": "^8.5.1",
     "kill-port": "^1.6.0",
     "mongo-join": "^1.0.0",
